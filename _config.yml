@@ -7,10 +7,18 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Wang Yang / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Wang Yang"
+description              : &description "My research interests focus on image matching or registration, two-view geometry estimation, 3D reconstruction. I have led
+to develop the following algorithms:
+l GANet: A graph neural network learning for removing outliers in matched image points, in order to recover camera pose,
+image registration, and 3D reconstruction. This work has been published on ISPRS’22.
+l CANet: A covariance-normalization attention mechanism applying into two-view correspondence learning, enhancing the
+capacity of capturing the spatial context among the discrete keypoints, extracted from raw image pairs by feature descriptor
+(e.g., SIFT). This work has been published on IEEE TMM’22.
+l SRE: A subspace recovery optimal algorithm for fundamental/essential/homograph matrix estimation. This work has
+been published on ECCV’20."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
