@@ -7,21 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wang Yang / Homepage"
+title                    : "Wang Yang(王阳)'s Homepage"
 title_separator          : "-"
 name                     : &name "Wang Yang"
-description              : &description "My research interests focus on image matching or registration, two-view geometry estimation, 3D reconstruction. I have led
-to develop the following algorithms:
-l GANet: A graph neural network learning for removing outliers in matched image points, in order to recover camera pose,
-image registration, and 3D reconstruction. This work has been published on ISPRS’22.
-l CANet: A covariance-normalization attention mechanism applying into two-view correspondence learning, enhancing the
-capacity of capturing the spatial context among the discrete keypoints, extracted from raw image pairs by feature descriptor
-(e.g., SIFT). This work has been published on IEEE TMM’22.
-l SRE: A subspace recovery optimal algorithm for fundamental/essential/homograph matrix estimation. This work has
-been published on ECCV’20."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Fintech team @ Alibaba | Machine Learning Algorithm Engineer
+> Full-time position: Leveraged ML/DL algorithms for fault diagnosis, anomaly detection, and time-series analysis on cloud-scale systems;
+> Self-directed study: Empirical work in quantitative factor construction, market microstructure and algorithmic market making; 
+Theoretical studies of derivatives pricing (Options/FX) and volatility surface modeling."
+url                      : https://wangyangcharles1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "WangyangCharles1/wangyangcharles1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
