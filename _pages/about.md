@@ -80,9 +80,13 @@ with local neighborhood consensus. Neurocomputing, 2020, 406: 150-158. (Neurocom
 ## Education
 ======
 Wuhan University of Technology | Communication Engineering (Bachelor) SEP 2015 - JUL 2019
-GPA: 88.8 (11/235) Award: National scholarship, Siemens-Cup China Intelligent Manufacturing Challenge (CIMC)
-Final (First Prize)
+
+GPA: 88.8 (11/235) 
+
+Award: National scholarship, Siemens-Cup China Intelligent Manufacturing Challenge (CIMC)Final (First Prize)
+
 Wuhan University | Electronic and Communication Engineering (Master) SEP 2019 - JUL 2021
+
 GPA: 80.1 Award: National first scholarship
 
 
