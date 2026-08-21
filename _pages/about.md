@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I'm Yang Wang（王阳）
 
 I am a Senior Site Reliability Engineer at Alibaba Group, with a background in large-scale distributed systems, machine learning for observability, and time-series analysis. My work focuses on applying ML/DL techniques to fault diagnosis, anomaly detection, root-cause analysis, and high-availability engineering for cloud-scale systems serving tens of millions of users.
 
