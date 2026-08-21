@@ -57,17 +57,22 @@ My engineering work includes improving MySQL query performance, reducing system 
 ### Published works
 [1] Yang Wang*, Xingyu Jiang*, Aoxiang Fan, Jiayi Ma, Learning for mismatch removal via graph attention networks.
 ISPRS Journal of Photogrammetry and Remote Sensing, 2022, 190: 181-195. (ISPRS’22, * equal contribution)
+
 [2] Jiayi Ma, Yang Wang, Aoxiang Fan, Guobao Xiao, Riqing Chen, Correspondence Attention Transformer: A
 Context-sensitive Network for Two-view Correspondence Learning. IEEE Transactions on Multimedia, 2022. (IEEE
 TMM’22)
+
 [3] Aoxiang Fan, Xingyu Jiang, Yang Wang, Junjun Jiang, Jiayi Ma, Geometric estimation via robust subspace recovery.
 European Conference on Computer Vision. Springer, Cham, 2020: 462-478. (ECCV’20)
+
 [4] Yang Wang, Xiaoguang Mei, Yong Ma, Jun Huang, Fan Fan, Jiayi Ma, Learning to find reliable correspondences
 with local neighborhood consensus. Neurocomputing, 2020, 406: 150-158. (Neurocomputing’20)
 
 ### Upcoming works
 [5] Yang Wang, Energy-Consistent Learning of Local Volatility Surfaces via sigma-Q Operator, 2026
+
 [6] Yang Wang, Physical-Aware Spectral Transformer, 2026
+
 [7] Yang Wang, An Uncertainty Quantification Method for Inferring Financial Stochastic Dynamics, 2026
 
 
