@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wang Yang's Homepage"
+title: "Wang Yang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,97 +8,127 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Site Reliability Engineer at Alibaba Group, with a background in large-scale distributed systems, machine learning for observability, and time-series analysis. My work focuses on applying ML/DL techniques to fault diagnosis, anomaly detection, root-cause analysis, and high-availability engineering for cloud-scale systems serving tens of millions of users.
+I am a Senior Site Reliability Engineer at **Alibaba Group**, with a background in large-scale distributed systems, machine learning for observability, and time-series analysis. My work focuses on applying ML/DL techniques to fault diagnosis, anomaly detection, root-cause analysis, and high-availability engineering for cloud-scale systems serving tens of millions of users.
 
-Beyond my engineering role, I am an independent researcher in quantitative finance and mathematical finance. My current interests include derivatives pricing, volatility surface modeling, stochastic volatility models, and uncertainty quantification under model risk.
+Beyond my engineering role, I am an **independent researcher** in quantitative finance and mathematical finance. My current interests include derivatives pricing, volatility surface modeling, stochastic volatility models, and uncertainty quantification under model risk.
 
 I have been systematically studying stochastic calculus, measure theory, convex optimization, Bayesian inference, optimal transport, and information geometry, with a particular focus on their applications in derivatives modeling and financial risk management.
 
-My ongoing research projects include arbitrage-free volatility surface reconstruction, Bayesian uncertainty quantification for stochastic volatility models, information-geometric reconstruction of diffusion fields, and event-driven factor construction based on martingale theory, optimal transport, and causal inference.
+<div class="section-divider"><h2>Research Interests</h2></div>
 
-## Research Interests
+<div class="research-card-grid">
+  <div class="research-card">
+    <div class="card-icon">📊</div>
+    <h3>Derivatives Pricing</h3>
+    <p>Volatility surface modeling with Black-Scholes, Heston, SABR, Dupire, and SVI models. Arbitrage-free constraints and calibration.</p>
+  </div>
+  <div class="research-card">
+    <div class="card-icon">🔬</div>
+    <h3>Stochastic Volatility Models</h3>
+    <p>Bayesian inference and variational methods for model uncertainty quantification in financial stochastic dynamics.</p>
+  </div>
+  <div class="research-card">
+    <div class="card-icon">📐</div>
+    <h3>Information Geometry</h3>
+    <p>Optimal transport, Wasserstein geometry, and information-geometric methods for diffusion field reconstruction.</p>
+  </div>
+  <div class="research-card">
+    <div class="card-icon">🤖</div>
+    <h3>AI & Market Microstructure</h3>
+    <p>LLM trading agent behavior, algorithmic collusion detection, smart order routing, and ML-based liquidity measurement.</p>
+  </div>
+</div>
 
-- Derivatives pricing and volatility surface modeling
-- Stochastic volatility models: Black-Scholes, Heston, SABR, Dupire, SVI
-- Arbitrage-free constraints and volatility surface calibration
-- Bayesian inference and variational methods for model uncertainty
-- Optimal transport, Wasserstein geometry, and information geometry
-- Machine learning for financial modeling and time-series systems
-- Market microstructure and AI/LLM agent behavior in electronic markets
-- Dealer balance sheet constraints and Treasury market liquidity
+<div class="section-divider"><h2>Ongoing Research</h2></div>
 
----
+<div class="research-card-grid">
+  <div class="research-card">
+    <h3>Arbitrage-Free Volatility Surface Reconstruction</h3>
+    <p>A variational framework combining neural networks and quadratic programming for arbitrage-free volatility surfaces, applied to American option pricing and OTC derivatives.</p>
+  </div>
+  <div class="research-card">
+    <h3>Bayesian Uncertainty Quantification</h3>
+    <p>Posterior estimation and ELBO-based variational inference for SVI, SABR, Heston, and Dupire models, with applications in model validation and model risk management.</p>
+  </div>
+  <div class="research-card">
+    <h3>Information-Geometric Diffusion Fields</h3>
+    <p>Combining Wasserstein distance, spectral encoding, and Transformer architectures for local volatility calibration and diffusion field reconstruction.</p>
+  </div>
+  <div class="research-card">
+    <h3>Event-Driven Factor Construction</h3>
+    <p>Martingale theory, optimal transport, and causal inference for constructing event-driven alpha factors under a rigorous probabilistic framework.</p>
+  </div>
+</div>
 
-## Selected Publications
+<div class="section-divider"><h2>Selected Publications</h2></div>
 
-### Published Papers
+<div class="featured-pub-card">
+  <div class="featured-pub-title"><a href="/publication/2026-04-01-smart-order-routing/">AI-Powered Smart Order Routing and the New Best Execution Problem</a></div>
+  <div class="featured-pub-meta">Yang Wang · Working Paper, 2026 · <a href="/files/smart_order_routing.pdf">PDF</a></div>
+  <div class="featured-pub-desc">Documents a fundamental duality: 26–43 bps lower execution costs in normal times, but 40–65% routing concentration increase during stress. Proposes venue diversity requirements and correlated-routing stress tests.</div>
+</div>
 
-**[1]** Yang Wang\*, Xingyu Jiang\*, Aoxiang Fan, Jiayi Ma. **Learning for Mismatch Removal via Graph Attention Networks.** *ISPRS Journal of Photogrammetry and Remote Sensing*, 2022, 190: 181-195. (\* equal contribution) &nbsp; [More info](/publication/2022-01-01-learning-mismatch-removal-gat/)
+<div class="featured-pub-card">
+  <div class="featured-pub-title"><a href="/publication/2026-06-01-hard-constrained-inverse-diffusion/">Hard-Constrained Structure-Preserving Learning for Inverse Diffusion</a></div>
+  <div class="featured-pub-meta">Yang Wang · Working Paper, 2026 · <a href="/files/hard_constrained_inverse_diffusion.pdf">PDF</a></div>
+  <div class="featured-pub-desc">A differentiable Galerkin route to option calibration. Positivity, coercivity, and SPD are guaranteed by architecture, not loss penalties. Proves a no-go proposition for soft-constraint approaches.</div>
+</div>
 
-**[2]** Jiayi Ma, Yang Wang, Aoxiang Fan, Guobao Xiao, Riqing Chen. **Correspondence Attention Transformer: A Context-sensitive Network for Two-view Correspondence Learning.** *IEEE Transactions on Multimedia*, 2022. &nbsp; [More info](/publication/2022-06-01-correspondence-attention-transformer/)
+<div class="featured-pub-card">
+  <div class="featured-pub-title"><a href="/publication/2026-07-01-nonlinear-price-impact/">Learning State-Dependent Nonlinear Price Impact from Exogenous Demand Shocks</a></div>
+  <div class="featured-pub-meta">Yang Wang · Working Paper, 2026 · <a href="/files/npiml.pdf">PDF</a></div>
+  <div class="featured-pub-desc">Nonlinear curvature κ (not linear Kyle-λ) is the most sensitive dimension to dealer constraints and a leading indicator of crises. Replicated on-chain with 40,360 forced-liquidation events.</div>
+</div>
 
-**[3]** Aoxiang Fan, Xingyu Jiang, Yang Wang, Junjun Jiang, Jiayi Ma. **Geometric Estimation via Robust Subspace Recovery.** *European Conference on Computer Vision (ECCV)*, 2020: 462-478. &nbsp; [More info](/publication/2020-01-01-geometric-estimation-robust-subspace/)
+<div class="featured-pub-card">
+  <div class="featured-pub-title"><a href="/publication/2026-08-01-order-books-vs-liquidity-pools/">Order Books vs. Liquidity Pools: Price Discovery Across Decentralized Market Mechanisms</a></div>
+  <div class="featured-pub-meta">Yang Wang · Working Paper, 2026 · <a href="/files/order_books_vs_liquidity_pools.pdf">PDF</a></div>
+  <div class="featured-pub-desc">First fully real-data comparison of centralized CLOB, on-chain CLOB, Uniswap v3, and DEX aggregator for ETH. Centralized order books dominate with 79% of permanent price discovery.</div>
+</div>
 
-**[4]** Yang Wang, Xiaoguang Mei, Yong Ma, Jun Huang, Fan Fan, Jiayi Ma. **Learning to Find Reliable Correspondences with Local Neighborhood Consensus.** *Neurocomputing*, 2020, 406: 150-158. &nbsp; [More info](/publication/2020-06-01-learning-reliable-correspondences/)
+<p style="text-align:center;margin-top:1.5em;"><a href="/publications/" style="display:inline-block;background:#3b82f6;color:#fff;padding:0.5em 2em;border-radius:8px;text-decoration:none;font-weight:600;font-size:0.9em;">View all 12 publications &rarr;</a></p>
 
-### Independent Research & Working Papers
+<div class="section-divider"><h2>Research Blog</h2></div>
 
-**[5]** Yang Wang. **Energy-Consistent Learning of Local Volatility Surfaces via sigma-Q Operator.** Working Paper, 2026. &nbsp; [More info](/publication/2026-01-01-energy-consistent-volatility-surfaces/)
+<p style="font-size:0.88em;color:#666;margin-bottom:1.5em;">In-depth research notes organized into three thematic series, each with data visualizations and calibrated simulations.</p>
 
-**[6]** Yang Wang. **Physical-Aware Spectral Transformer.** Working Paper, 2026. &nbsp; [More info](/publication/2026-02-01-physical-aware-spectral-transformer/)
+<div class="research-card-grid">
+  <div class="series-card">
+    <img class="series-card-image" src="/images/blog/series1_overview.png" alt="AI Trading Agents">
+    <div class="series-card-body">
+      <h3>AI/LLM Trading Agents & Market Microstructure</h3>
+      <p>Reasoning latency costs, tacit collusion among Q-learning market makers, smart order routing crowding, and informational herding from shared models.</p>
+      <a href="/posts/2026/08/series-ai-trading-agents/" class="series-link">Read 4 papers &rarr;</a>
+    </div>
+  </div>
+  <div class="series-card">
+    <img class="series-card-image" src="/images/blog/series2_overview.png" alt="Dealer Balance Sheet">
+    <div class="series-card-body">
+      <h3>Dealer Balance Sheet, Repo & Treasury Liquidity</h3>
+      <p>VaR risk-limit procyclicality, mandatory central clearing effects, basis trade crowding and margin spirals, and mutual fund fire sale interactions.</p>
+      <a href="/posts/2026/07/series-dealer-balance-sheet/" class="series-link">Read 4 papers &rarr;</a>
+    </div>
+  </div>
+  <div class="series-card">
+    <img class="series-card-image" src="/images/blog/series3_overview.png" alt="ML Liquidity">
+    <div class="series-card-body">
+      <h3>Machine-Learned Liquidity & Causal Inference</h3>
+      <p>Cross-country market opening effects, hidden liquidity deterioration in corporate bonds, tokenized asset market quality, and ML measures in causal designs.</p>
+      <a href="/posts/2026/06/series-ml-liquidity-measures/" class="series-link">Read 4 papers &rarr;</a>
+    </div>
+  </div>
+</div>
 
-**[7]** Yang Wang. **An Uncertainty Quantification Method for Inferring Financial Stochastic Dynamics.** Working Paper, 2026. &nbsp; [More info](/publication/2026-03-01-uncertainty-quantification-financial-stochastic/)
+<p style="text-align:center;margin-top:1em;"><a href="/year-archive/" style="display:inline-block;background:#f0f0f0;color:#555;padding:0.5em 2em;border-radius:8px;text-decoration:none;font-weight:600;font-size:0.85em;">View all 15 blog posts &rarr;</a></p>
 
-**[8]** Yang Wang. **AI-Powered Smart Order Routing and the New Best Execution Problem.** Working Paper, 2026. &nbsp; [Paper PDF](/files/smart_order_routing.pdf) &nbsp; [More info](/publication/2026-04-01-smart-order-routing/)
+<div class="section-divider"><h2>Experience</h2></div>
 
-**[9]** Yang Wang. **Causal Liquidity Transferability across Regimes: A DAG-HMM Framework for Emerging Market Capital Controls.** Working Paper, 2026. &nbsp; [Paper PDF](/files/causal_liquidity_transferability.pdf) &nbsp; [More info](/publication/2026-05-01-causal-liquidity-transferability/)
+**Alibaba Cloud Computing** — Deep/Machine Learning Algorithm Engineer, Jul 2021 – Present
 
-**[10]** Yang Wang. **Hard-Constrained Structure-Preserving Learning for Inverse Diffusion: A Differentiable Galerkin Route to Option Calibration.** Working Paper, 2026. &nbsp; [Paper PDF](/files/hard_constrained_inverse_diffusion.pdf) &nbsp; [More info](/publication/2026-06-01-hard-constrained-inverse-diffusion/)
+ML/DL algorithms for fault diagnosis, anomaly detection, and time-series analysis on cloud-scale systems. MySQL query optimization, system latency reduction, time-series storage frameworks (VictoriaMetrics), and database version migration.
 
-**[11]** Yang Wang. **Learning State-Dependent Nonlinear Price Impact from Exogenous Demand Shocks.** Working Paper, 2026. &nbsp; [Paper PDF](/files/npiml.pdf) &nbsp; [More info](/publication/2026-07-01-nonlinear-price-impact/)
+<div class="section-divider"><h2>Education</h2></div>
 
-**[12]** Yang Wang. **Order Books vs. Liquidity Pools: Price Discovery and Execution Quality Across Decentralized Market Mechanisms.** Working Paper, 2026. &nbsp; [Paper PDF](/files/order_books_vs_liquidity_pools.pdf) &nbsp; [More info](/publication/2026-08-01-order-books-vs-liquidity-pools/)
+**Wuhan University** — M.E. Electronic and Communication Engineering, Sep 2019 – Jul 2021 · GPA: 80.1 · National First Scholarship
 
-[See all publications](/publications/){: .btn .btn--primary}
-
----
-
-## Research Blog
-
-In-depth research notes organized into three thematic series covering AI trading agents, Treasury market microstructure, and machine-learned liquidity measurement.
-
-### Series 1: AI/LLM Trading Agents and Market Microstructure
-
-Four papers investigating how autonomous AI agents interact with and potentially destabilize modern market microstructure: reasoning latency costs, tacit collusion among Q-learning market makers, crowding externalities in AI smart order routing, and informational herding from shared model architectures.
-
-[Read the series overview](/posts/2026/08/series-ai-trading-agents/){: .btn .btn--info}
-
-### Series 2: Dealer Balance Sheet, Repo Markets, and Treasury Liquidity
-
-Four papers on how dealer intermediation constraints propagate through Treasury and corporate bond markets: VaR risk-limit procyclicality, the net effects of mandatory central clearing, basis trade crowding and margin spirals, and the interaction between mutual fund fire sales and dealer capacity.
-
-[Read the series overview](/posts/2026/07/series-dealer-balance-sheet/){: .btn .btn--info}
-
-### Series 3: Machine-Learned Liquidity Measures and Causal Inference
-
-Four papers using machine learning to construct superior liquidity measures and applying them in rigorous causal designs: cross-country market opening effects, hidden liquidity deterioration in corporate bonds, market quality measurement in tokenized asset markets, and a methodology paper on using ML measures as dependent variables in causal inference.
-
-[Read the series overview](/posts/2026/06/series-ml-liquidity-measures/){: .btn .btn--info}
-
-[See all blog posts](/year-archive/){: .btn .btn--primary}
-
----
-
-## Education
-
-**Wuhan University of Technology** | Communication Engineering (Bachelor), Sep 2015 - Jul 2019
-GPA: 88.8 (11/235). Award: National Scholarship, Siemens-Cup China Intelligent Manufacturing Challenge (CIMC) Final (First Prize).
-
-**Wuhan University** | Electronic and Communication Engineering (Master), Sep 2019 - Jul 2021
-GPA: 80.1. Award: National First Scholarship.
-
-## Work Experience
-
-**Alibaba Cloud Computing** | Deep/Machine Learning Algorithm Engineer, Jul 2021 - Present
-
-Responsibilities include leveraging ML/DL algorithms for fault diagnosis, anomaly detection, and time-series analysis on cloud-scale systems. Engineering work spans MySQL query performance optimization, system latency reduction, index structure optimization, time-series storage and analysis frameworks based on VictoriaMetrics, and database version migration frameworks with backward compatibility.
+**Wuhan University of Technology** — B.E. Communication Engineering, Sep 2015 – Jul 2019 · GPA: 88.8 (11/235) · National Scholarship · Siemens-Cup CIMC Final (First Prize)
