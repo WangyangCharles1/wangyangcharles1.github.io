@@ -15,7 +15,7 @@ Beyond my engineering role, I am an **independent researcher** in quantitative f
 I have been systematically studying stochastic calculus, measure theory, convex optimization, Bayesian inference, optimal transport, and information geometry, with a particular focus on their applications in derivatives modeling and financial risk management.
 
 -----------------------------------------------------------------
-<div class="section-divider"><h2>Selected Publications</h2></div>
+<div class="section-divider"><h2>Recent Researches</h2></div>
 
 <div class="featured-pub-card">
   <div class="featured-pub-title"><a href="/publication/2026-04-01-smart-order-routing/">AI-Powered Smart Order Routing and the New Best Execution Problem</a></div>
