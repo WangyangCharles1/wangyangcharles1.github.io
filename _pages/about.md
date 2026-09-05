@@ -14,51 +14,6 @@ Beyond my engineering role, I am an **independent researcher** in quantitative f
 
 I have been systematically studying stochastic calculus, measure theory, convex optimization, Bayesian inference, optimal transport, and information geometry, with a particular focus on their applications in derivatives modeling and financial risk management.
 
-<div class="section-divider"><h2>Research Interests</h2></div>
-
-<div class="research-card-grid">
-  <div class="research-card">
-    <div class="card-icon">📊</div>
-    <h3>Derivatives Pricing</h3>
-    <p>Volatility surface modeling with Black-Scholes, Heston, SABR, Dupire, and SVI models. Arbitrage-free constraints and calibration.</p>
-  </div>
-  <div class="research-card">
-    <div class="card-icon">🔬</div>
-    <h3>Stochastic Volatility Models</h3>
-    <p>Bayesian inference and variational methods for model uncertainty quantification in financial stochastic dynamics.</p>
-  </div>
-  <div class="research-card">
-    <div class="card-icon">📐</div>
-    <h3>Information Geometry</h3>
-    <p>Optimal transport, Wasserstein geometry, and information-geometric methods for diffusion field reconstruction.</p>
-  </div>
-  <div class="research-card">
-    <div class="card-icon">🤖</div>
-    <h3>AI & Market Microstructure</h3>
-    <p>LLM trading agent behavior, algorithmic collusion detection, smart order routing, and ML-based liquidity measurement.</p>
-  </div>
-</div>
-
-<div class="section-divider"><h2>Ongoing Research</h2></div>
-
-<div class="research-card-grid">
-  <div class="research-card">
-    <h3>Arbitrage-Free Volatility Surface Reconstruction</h3>
-    <p>A variational framework combining neural networks and quadratic programming for arbitrage-free volatility surfaces, applied to American option pricing and OTC derivatives.</p>
-  </div>
-  <div class="research-card">
-    <h3>Bayesian Uncertainty Quantification</h3>
-    <p>Posterior estimation and ELBO-based variational inference for SVI, SABR, Heston, and Dupire models, with applications in model validation and model risk management.</p>
-  </div>
-  <div class="research-card">
-    <h3>Information-Geometric Diffusion Fields</h3>
-    <p>Combining Wasserstein distance, spectral encoding, and Transformer architectures for local volatility calibration and diffusion field reconstruction.</p>
-  </div>
-  <div class="research-card">
-    <h3>Event-Driven Factor Construction</h3>
-    <p>Martingale theory, optimal transport, and causal inference for constructing event-driven alpha factors under a rigorous probabilistic framework.</p>
-  </div>
-</div>
 
 <div class="section-divider"><h2>Selected Publications</h2></div>
 
@@ -132,3 +87,48 @@ ML/DL algorithms for fault diagnosis, anomaly detection, and time-series analysi
 **Wuhan University** — M.E. Electronic and Communication Engineering, Sep 2019 – Jul 2021 · GPA: 80.1 · National First Scholarship
 
 **Wuhan University of Technology** — B.E. Communication Engineering, Sep 2015 – Jul 2019 · GPA: 88.8 (11/235) · National Scholarship · Siemens-Cup CIMC Final (First Prize)
+<div class="section-divider"><h2>Research Interests</h2></div>
+
+<div class="research-card-grid">
+  <div class="research-card">
+    <div class="card-icon">📊</div>
+    <h3>Derivatives Pricing</h3>
+    <p>Volatility surface modeling with Black-Scholes, Heston, SABR, Dupire, and SVI models. Arbitrage-free constraints and calibration.</p>
+  </div>
+  <div class="research-card">
+    <div class="card-icon">🔬</div>
+    <h3>Stochastic Volatility Models</h3>
+    <p>Bayesian inference and variational methods for model uncertainty quantification in financial stochastic dynamics.</p>
+  </div>
+  <div class="research-card">
+    <div class="card-icon">📐</div>
+    <h3>Information Geometry</h3>
+    <p>Optimal transport, Wasserstein geometry, and information-geometric methods for diffusion field reconstruction.</p>
+  </div>
+  <div class="research-card">
+    <div class="card-icon">🤖</div>
+    <h3>AI & Market Microstructure</h3>
+    <p>LLM trading agent behavior, algorithmic collusion detection, smart order routing, and ML-based liquidity measurement.</p>
+  </div>
+</div>
+
+<div class="section-divider"><h2>Ongoing Research</h2></div>
+
+<div class="research-card-grid">
+  <div class="research-card">
+    <h3>Arbitrage-Free Volatility Surface Reconstruction</h3>
+    <p>A variational framework combining neural networks and quadratic programming for arbitrage-free volatility surfaces, applied to American option pricing and OTC derivatives.</p>
+  </div>
+  <div class="research-card">
+    <h3>Bayesian Uncertainty Quantification</h3>
+    <p>Posterior estimation and ELBO-based variational inference for SVI, SABR, Heston, and Dupire models, with applications in model validation and model risk management.</p>
+  </div>
+  <div class="research-card">
+    <h3>Information-Geometric Diffusion Fields</h3>
+    <p>Combining Wasserstein distance, spectral encoding, and Transformer architectures for local volatility calibration and diffusion field reconstruction.</p>
+  </div>
+  <div class="research-card">
+    <h3>Event-Driven Factor Construction</h3>
+    <p>Martingale theory, optimal transport, and causal inference for constructing event-driven alpha factors under a rigorous probabilistic framework.</p>
+  </div>
+</div>
