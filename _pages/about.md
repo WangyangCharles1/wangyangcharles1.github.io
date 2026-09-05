@@ -91,22 +91,18 @@ ML/DL algorithms for fault diagnosis, anomaly detection, and time-series analysi
 
 <div class="research-card-grid">
   <div class="research-card">
-    <div class="card-icon">📊</div>
     <h3>Derivatives Pricing</h3>
     <p>Volatility surface modeling with Black-Scholes, Heston, SABR, Dupire, and SVI models. Arbitrage-free constraints and calibration.</p>
   </div>
   <div class="research-card">
-    <div class="card-icon">🔬</div>
     <h3>Stochastic Volatility Models</h3>
     <p>Bayesian inference and variational methods for model uncertainty quantification in financial stochastic dynamics.</p>
   </div>
   <div class="research-card">
-    <div class="card-icon">📐</div>
     <h3>Information Geometry</h3>
     <p>Optimal transport, Wasserstein geometry, and information-geometric methods for diffusion field reconstruction.</p>
   </div>
   <div class="research-card">
-    <div class="card-icon">🤖</div>
     <h3>AI & Market Microstructure</h3>
     <p>LLM trading agent behavior, algorithmic collusion detection, smart order routing, and ML-based liquidity measurement.</p>
   </div>
