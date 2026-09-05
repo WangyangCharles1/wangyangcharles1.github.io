@@ -14,7 +14,7 @@ Beyond my engineering role, I am an **independent researcher** in quantitative f
 
 I have been systematically studying stochastic calculus, measure theory, convex optimization, Bayesian inference, optimal transport, and information geometry, with a particular focus on their applications in derivatives modeling and financial risk management.
 
-
+-----------------------------------------------------------------
 <div class="section-divider"><h2>Selected Publications</h2></div>
 
 <div class="featured-pub-card">
@@ -22,24 +22,28 @@ I have been systematically studying stochastic calculus, measure theory, convex 
   <div class="featured-pub-meta">Yang Wang · Working Paper, 2026 · <a href="/files/smart_order_routing.pdf">PDF</a></div>
   <div class="featured-pub-desc">Documents a fundamental duality: 26–43 bps lower execution costs in normal times, but 40–65% routing concentration increase during stress. Proposes venue diversity requirements and correlated-routing stress tests.</div>
 </div>
+-----------------------------------------------------------------
 
 <div class="featured-pub-card">
   <div class="featured-pub-title"><a href="/publication/2026-06-01-hard-constrained-inverse-diffusion/">Hard-Constrained Structure-Preserving Learning for Inverse Diffusion</a></div>
   <div class="featured-pub-meta">Yang Wang · Working Paper, 2026 · <a href="/files/hard_constrained_inverse_diffusion.pdf">PDF</a></div>
   <div class="featured-pub-desc">A differentiable Galerkin route to option calibration. Positivity, coercivity, and SPD are guaranteed by architecture, not loss penalties. Proves a no-go proposition for soft-constraint approaches.</div>
 </div>
+-----------------------------------------------------------------
 
 <div class="featured-pub-card">
   <div class="featured-pub-title"><a href="/publication/2026-07-01-nonlinear-price-impact/">Learning State-Dependent Nonlinear Price Impact from Exogenous Demand Shocks</a></div>
   <div class="featured-pub-meta">Yang Wang · Working Paper, 2026 · <a href="/files/npiml.pdf">PDF</a></div>
   <div class="featured-pub-desc">Nonlinear curvature κ (not linear Kyle-λ) is the most sensitive dimension to dealer constraints and a leading indicator of crises. Replicated on-chain with 40,360 forced-liquidation events.</div>
 </div>
+-----------------------------------------------------------------
 
 <div class="featured-pub-card">
   <div class="featured-pub-title"><a href="/publication/2026-08-01-order-books-vs-liquidity-pools/">Order Books vs. Liquidity Pools: Price Discovery Across Decentralized Market Mechanisms</a></div>
   <div class="featured-pub-meta">Yang Wang · Working Paper, 2026 · <a href="/files/order_books_vs_liquidity_pools.pdf">PDF</a></div>
   <div class="featured-pub-desc">First fully real-data comparison of centralized CLOB, on-chain CLOB, Uniswap v3, and DEX aggregator for ETH. Centralized order books dominate with 79% of permanent price discovery.</div>
 </div>
+-----------------------------------------------------------------
 
 <p style="text-align:center;margin-top:1.5em;"><a href="/publications/" style="display:inline-block;background:#3b82f6;color:#fff;padding:0.5em 2em;border-radius:8px;text-decoration:none;font-weight:600;font-size:0.9em;">View all 12 publications &rarr;</a></p>
 
