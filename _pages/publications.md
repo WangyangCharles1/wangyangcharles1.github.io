@@ -133,12 +133,23 @@ author_profile: true
 
 <div class="pub-section-header">
   <h2>Published Papers</h2>
-  <span class="pub-count">4 papers</span>
+  <span class="pub-count">5 papers</span>
 </div>
 
 <div class="pub-card">
   <div class="pub-card-header">
     <div class="pub-card-number">01</div>
+    <div>
+      <div class="pub-card-title"><a href="/files/ICAIF___Reasoning_Is_Latency__LLM_Trading_Agents__Inference_Time__and_Execution_Quality___2.pdf">Reasoning Is Latency: Endogenous Information Processing and Execution in AI Trading</a></div>
+      <div class="pub-card-authors">Yang Wang</div>
+      <span class="pub-card-venue">ICAIF'2026 workshop on “Structuring the Unstructured: AI in Private Markets”</span>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-header">
+    <div class="pub-card-number">02</div>
     <div>
       <div class="pub-card-title"><a href="/publication/2022-01-01-learning-mismatch-removal-gat/">Learning for Mismatch Removal via Graph Attention Networks</a></div>
       <div class="pub-card-authors">Yang Wang*, Xingyu Jiang*, Aoxiang Fan, Jiayi Ma &nbsp;(* equal contribution)</div>
@@ -149,7 +160,7 @@ author_profile: true
 
 <div class="pub-card">
   <div class="pub-card-header">
-    <div class="pub-card-number">02</div>
+    <div class="pub-card-number">03</div>
     <div>
       <div class="pub-card-title"><a href="/publication/2022-06-01-correspondence-attention-transformer/">Correspondence Attention Transformer: A Context-sensitive Network for Two-view Correspondence Learning</a></div>
       <div class="pub-card-authors">Jiayi Ma, Yang Wang, Aoxiang Fan, Guobao Xiao, Riqing Chen</div>
@@ -160,7 +171,7 @@ author_profile: true
 
 <div class="pub-card">
   <div class="pub-card-header">
-    <div class="pub-card-number">03</div>
+    <div class="pub-card-number">04</div>
     <div>
       <div class="pub-card-title"><a href="/publication/2020-01-01-geometric-estimation-robust-subspace/">Geometric Estimation via Robust Subspace Recovery</a></div>
       <div class="pub-card-authors">Aoxiang Fan, Xingyu Jiang, Yang Wang, Junjun Jiang, Jiayi Ma</div>
@@ -171,7 +182,7 @@ author_profile: true
 
 <div class="pub-card">
   <div class="pub-card-header">
-    <div class="pub-card-number">04</div>
+    <div class="pub-card-number">05</div>
     <div>
       <div class="pub-card-title"><a href="/publication/2020-06-01-learning-reliable-correspondences/">Learning to Find Reliable Correspondences with Local Neighborhood Consensus</a></div>
       <div class="pub-card-authors">Yang Wang, Xiaoguang Mei, Yong Ma, Jun Huang, Fan Fan, Jiayi Ma</div>
@@ -180,50 +191,16 @@ author_profile: true
   </div>
 </div>
 
-<div class="pub-section-header" style="margin-top: 2.5em;">
-  <h2>Independent Research & Working Papers</h2>
-  <span class="pub-count">8 papers</span>
-</div>
 
-<div class="pub-card">
-  <div class="pub-card-header">
-    <div class="pub-card-number">05</div>
-    <div>
-      <div class="pub-card-title"><a href="/publication/2026-01-01-energy-consistent-volatility-surfaces/">Energy-Consistent Learning of Local Volatility Surfaces via σ-Q Operator</a></div>
-      <div class="pub-card-authors">Yang Wang</div>
-      <span class="pub-card-venue working">Working Paper, 2026</span>
-      <div class="pub-card-excerpt">A variational framework combining neural networks and quadratic programming for arbitrage-free volatility surface reconstruction, with applications in American option pricing and OTC derivatives.</div>
-    </div>
-  </div>
+
+<div class="pub-section-header" style="margin-top: 2.5em;">
+  <h2>Working Papers</h2>
+  <span class="pub-count">5 papers</span>
 </div>
 
 <div class="pub-card">
   <div class="pub-card-header">
     <div class="pub-card-number">06</div>
-    <div>
-      <div class="pub-card-title"><a href="/publication/2026-02-01-physical-aware-spectral-transformer/">Physical-Aware Spectral Transformer</a></div>
-      <div class="pub-card-authors">Yang Wang</div>
-      <span class="pub-card-venue working">Working Paper, 2026</span>
-      <div class="pub-card-excerpt">Combining Wasserstein distance, spectral encoding, and Transformer architectures for local volatility calibration and diffusion field reconstruction.</div>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-card-header">
-    <div class="pub-card-number">07</div>
-    <div>
-      <div class="pub-card-title"><a href="/publication/2026-03-01-uncertainty-quantification-financial-stochastic/">An Uncertainty Quantification Method for Inferring Financial Stochastic Dynamics</a></div>
-      <div class="pub-card-authors">Yang Wang</div>
-      <span class="pub-card-venue working">Working Paper, 2026</span>
-      <div class="pub-card-excerpt">Posterior estimation and ELBO-based variational inference for stochastic volatility models (SVI, SABR, Heston, Dupire) with applications in model risk management.</div>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-card-header">
-    <div class="pub-card-number">08</div>
     <div>
       <div class="pub-card-title"><a href="/publication/2026-04-01-smart-order-routing/">AI-Powered Smart Order Routing and the New Best Execution Problem</a></div>
       <div class="pub-card-authors">Yang Wang</div>
@@ -239,7 +216,7 @@ author_profile: true
 
 <div class="pub-card">
   <div class="pub-card-header">
-    <div class="pub-card-number">09</div>
+    <div class="pub-card-number">07</div>
     <div>
       <div class="pub-card-title"><a href="/publication/2026-05-01-causal-liquidity-transferability/">Causal Liquidity Transferability across Regimes: A DAG-HMM Framework for Emerging Market Capital Controls</a></div>
       <div class="pub-card-authors">Yang Wang</div>
@@ -255,7 +232,7 @@ author_profile: true
 
 <div class="pub-card">
   <div class="pub-card-header">
-    <div class="pub-card-number">10</div>
+    <div class="pub-card-number">08</div>
     <div>
       <div class="pub-card-title"><a href="/publication/2026-06-01-hard-constrained-inverse-diffusion/">Hard-Constrained Structure-Preserving Learning for Inverse Diffusion: A Differentiable Galerkin Route to Option Calibration</a></div>
       <div class="pub-card-authors">Yang Wang</div>
@@ -271,7 +248,7 @@ author_profile: true
 
 <div class="pub-card">
   <div class="pub-card-header">
-    <div class="pub-card-number">11</div>
+    <div class="pub-card-number">09</div>
     <div>
       <div class="pub-card-title"><a href="/publication/2026-07-01-nonlinear-price-impact/">Learning State-Dependent Nonlinear Price Impact from Exogenous Demand Shocks</a></div>
       <div class="pub-card-authors">Yang Wang</div>
@@ -287,7 +264,7 @@ author_profile: true
 
 <div class="pub-card">
   <div class="pub-card-header">
-    <div class="pub-card-number">12</div>
+    <div class="pub-card-number">10</div>
     <div>
       <div class="pub-card-title"><a href="/publication/2026-08-01-order-books-vs-liquidity-pools/">Order Books vs. Liquidity Pools: Price Discovery and Execution Quality Across Decentralized Market Mechanisms</a></div>
       <div class="pub-card-authors">Yang Wang</div>
