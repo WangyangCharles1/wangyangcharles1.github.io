@@ -39,3 +39,92 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Research homepage: shared editorial design */
+$ink: #172b42;
+$muted: #586b7c;
+$accent: #245878;
+$line: #dce5e9;
+body { color: $ink; background: #fbfcfd; }
+a { color: $accent; }
+a:focus-visible, summary:focus-visible { outline: 3px solid #61a9bc; outline-offset: 4px; }
+.masthead { background: #fff; border-bottom: 1px solid $line; }
+.page__content, .archive { line-height: 1.7; }
+.page__title { color: $ink; letter-spacing: -.025em; }
+.sidebar .author__avatar img { border: 3px solid #fff; box-shadow: 0 0 0 1px $line; }
+.sidebar .author__name { color: $ink; }
+.sidebar .author__bio { color: $muted; line-height: 1.55; }
+.home-intro { padding: .3rem 0 2rem; }
+.eyebrow { display: block; color: #3d7186; font-size: .72rem; font-weight: 700; letter-spacing: .11em; text-transform: uppercase; }
+.home-lead { color: $ink; font-size: 1.35rem; line-height: 1.5; font-weight: 500; letter-spacing: -.015em; }
+.home-intro > p:not(.eyebrow) { max-width: 48rem; }
+.home-actions { display: flex; flex-wrap: wrap; gap: .7rem; margin-top: 1.5rem; }
+.site-button { display: inline-block; padding: .65rem 1rem; border: 1px solid $ink; border-radius: 5px; background: $ink; color: #fff !important; text-decoration: none; font-size: .8rem; font-weight: 700; }
+.site-button.secondary { background: transparent; color: $ink !important; }
+.site-button:hover { background: #28536d; color: #fff !important; }
+.home-section { margin: 2.5rem 0; }
+.section-heading { display: flex; justify-content: space-between; align-items: end; gap: 1rem; border-bottom: 1px solid $line; padding-bottom: .8rem; margin-bottom: 1.2rem; }
+.section-heading h2 { margin: .2rem 0 0; padding: 0; border: 0; font-size: 1.45rem; color: $ink; }
+.section-heading > a { font-size: .8rem; font-weight: 700; white-space: nowrap; }
+.seminar-card { padding: 1.5rem; background: #edf4f6; border-left: 4px solid #3a788c; border-radius: 4px; }
+.seminar-card h3 { margin: .35rem 0 1rem; font-size: 1.15rem; }
+.seminar-card h4 { margin: .6rem 0 .3rem; font-size: 1.12rem; line-height: 1.4; }
+.seminar-card p { margin: .5rem 0; font-size: .88rem; }
+.seminar-meta { color: #416477; font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+.seminar-meta span { padding: 0 .25rem; }
+.award-label { display: inline-block; color: #725214; background: #fff3d6; padding: .25rem .6rem; border-radius: 3px; font-size: .72rem !important; font-weight: 700; }
+.workshop-details, .slides-expand { margin-top: 1rem; font-size: .83rem; }
+summary { color: $accent; cursor: pointer; font-weight: 700; }
+.slides-preview { display: flex; align-items: center; gap: 1rem; margin-top: 1.2rem; padding: .9rem; border: 1px solid #cfdee4; background: #fff; border-radius: 6px; }
+.slides-preview img { width: 160px; max-width: 35%; height: auto; border-radius: 3px; }
+.slides-preview p { color: $muted; }
+.text-link { font-weight: 700; font-size: .8rem; }
+.slides-expand iframe { width: 100%; height: 36rem; margin-top: .8rem; border: 1px solid $line; }
+.work-list article { padding: 1.1rem 0; border-bottom: 1px solid $line; }
+.work-list article > span, .blog-entry time { color: $muted; font-size: .73rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+.work-list h3 { margin: .3rem 0; font-size: 1rem; line-height: 1.4; }
+.work-list h3 a, .blog-entry h3 a { color: $ink; text-decoration: none; }
+.work-list h3 a:hover, .blog-entry h3 a:hover { color: $accent; text-decoration: underline; }
+.work-list p { margin: .3rem 0; color: $muted; font-size: .85rem; }
+.work-list article > a { font-size: .78rem; font-weight: 700; }
+.topic-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: .8rem; }
+.topic-grid > a { display: block; padding: 1rem; border: 1px solid $line; border-radius: 6px; background: #fff; color: $ink; text-decoration: none; }
+.topic-grid > a:hover { border-color: #87aebc; box-shadow: 0 5px 16px rgba(25,55,70,.07); }
+.topic-grid span { color: #548093; font-size: .75rem; font-weight: 700; }
+.topic-grid h3 { margin: .6rem 0; font-size: .92rem; line-height: 1.35; }
+.topic-grid p { margin: 0; color: $muted; font-size: .78rem; }
+.background-list { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+.background-list p { margin: 0; color: $muted; font-size: .8rem; }
+.background-list strong { color: $ink; }
+.page-intro { color: $muted; max-width: 45rem; }
+.blog-year, .cv-section h2 { color: $ink; font-size: 1.2rem; border-bottom: 1px solid $line; padding-bottom: .6rem; margin-top: 2rem; }
+.blog-entry { padding: 1.25rem 0; border-bottom: 1px solid $line; }
+.blog-entry h3 { margin: .3rem 0 .45rem; font-size: 1.05rem; line-height: 1.4; }
+.blog-excerpt { color: $muted; font-size: .85rem; }
+.blog-tags { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .65rem; }
+.blog-tags span { padding: .15rem .5rem; border-radius: 3px; background: #edf3f5; color: #46677a; font-size: .7rem; }
+.cv-section { margin-bottom: 2rem; }
+.cv-entry { display: flex; justify-content: space-between; gap: 1rem; padding: 1rem 0; border-bottom: 1px solid $line; }
+.cv-entry h3, .cv-entry p { margin: 0; }
+.cv-entry h3 { font-size: 1rem; }
+.cv-entry p, .cv-entry > span { color: $muted; font-size: .85rem; }
+.cv-entry > span { white-space: nowrap; }
+/* Override legacy inline publication styles with consistent alignment. */
+.page__content .pub-section-header { border-bottom: 1px solid $line; }
+.page__content .pub-section-header h2 { color: $ink; font-size: 1.25rem; }
+.page__content .pub-card { border-color: $line; border-radius: 6px; box-shadow: none; padding: 1.2rem 1.3rem; }
+.page__content .pub-card-header { justify-content: flex-start; }
+.page__content .pub-card-header > div:last-child { min-width: 0; flex: 1; }
+.page__content .pub-card-number { color: #9aabb4; font-size: 1.15rem; width: 2rem; }
+.page__content .pub-card-title a { color: $ink; }
+.page__content .pub-card-title a:hover { color: $accent; }
+.page__content .pub-card-venue { background: #eaf2f5; color: #315f75; }
+.page__content .pub-card-venue.working { background: #f7f1e4; color: #795a1f; }
+@media (max-width: 600px) {
+  .home-lead { font-size: 1.15rem; }
+  .topic-grid, .background-list { grid-template-columns: 1fr; }
+  .seminar-card { padding: 1rem; }
+  .slides-preview { align-items: flex-start; }
+  .slides-expand iframe { height: 26rem; }
+  .cv-entry { flex-direction: column; gap: .2rem; }
+  .section-heading { align-items: flex-start; }
+}
