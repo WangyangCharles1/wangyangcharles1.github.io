@@ -8,141 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Site Reliability Engineer at **Alibaba Group**, with a background in large-scale distributed systems, machine learning for observability, and time-series analysis. My work focuses on applying ML/DL techniques to fault diagnosis, anomaly detection, root-cause analysis, and high-availability engineering for cloud-scale systems serving tens of millions of users.
-
-Beyond my engineering role, I am an **independent researcher** in quantitative finance and mathematical finance. My current interests include derivatives pricing, volatility surface modeling, stochastic volatility models, and uncertainty quantification under model risk.
-
-I have been systematically studying stochastic calculus, measure theory, convex optimization, Bayesian inference, optimal transport, and information geometry, with a particular focus on their applications in derivatives modeling and financial risk management.
-
------------------------------------------------------------------
-<div class="section-divider"><h2>Seminar</h2></div>
-
-### ICAIF ’26: 7th ACM International Conference on AI in Finance (held in Milan on 14–17 November 2026).
-
-Workshop on Structuring the Unstructured: AI in Private Markets, brings together researchers and industry practitioners to explore AI in private markets—covering agentic workflows, foundation models for diligence, and trustworthy AI under challenges like fragmented data and delayed outcomes.[Workshop website](https://ai-private-markets.github.io/ai-for-private-market-workshop/)
-
-**My Oral Paper Presentation on November 15:** Reasoning Is Latency: Endogenous Information Processing and Execution in AI Trading (Submission ID: 1235) won a **best paper award**! Thanks to the committee, including [Dr. Dhagash Mehta](https://www.linkedin.com/in/dhagash-mehta-ph-d-45000111a/) and [Jingrao (Jasmine) Lyu](https://www.linkedin.com/in/jingrao-lyu/).
-
-<div class="seminar-pdf-preview" style="margin: 1.5em 0;">
-  <iframe src="/files/ICAIF_2026_Reasoning_Is_Latency_Stage.pdf" title="Reasoning Is Latency presentation slides" style="width: 100%; height: 600px; border: 1px solid #e0e0e0; border-radius: 8px;" loading="lazy"></iframe>
-  <p><a href="/files/ICAIF_2026_Reasoning_Is_Latency_Stage.pdf">Open or download the presentation slides (PDF)</a></p>
+<div class="home-intro">
+  <p class="eyebrow">Engineering · Quantitative finance · Machine learning</p>
+  <p class="home-lead">I am a Senior Site Reliability Engineer at <strong>Alibaba Group</strong> and an independent researcher in quantitative finance.</p>
+  <p>My work spans large-scale systems and machine learning, with research interests in derivatives pricing, market microstructure, volatility modeling, and model uncertainty.</p>
+  <div class="home-actions"><a class="site-button" href="/publications/">Explore publications</a><a class="site-button secondary" href="/year-archive/">Read the research blog</a></div>
 </div>
 
------------------------------------------------------------------
-<div class="section-divider"><h2>Recent Works</h2></div>
-
-<div class="featured-pub-card">
-  <div class="featured-pub-title"><a href="/publication/2026-04-01-smart-order-routing/">AI-Powered Smart Order Routing and the New Best Execution Problem</a></div>
-  <div class="featured-pub-meta">Yang Wang · Working Paper, 2026 · <a href="/files/smart_order_routing.pdf">PDF</a></div>
-  <div class="featured-pub-desc">Documents a fundamental duality: 26–43 bps lower execution costs in normal times, but 40–65% routing concentration increase during stress. Proposes venue diversity requirements and correlated-routing stress tests.</div>
-</div>
------------------------------------------------------------------
-
-<div class="featured-pub-card">
-  <div class="featured-pub-title"><a href="/publication/2026-06-01-hard-constrained-inverse-diffusion/">Hard-Constrained Structure-Preserving Learning for Inverse Diffusion</a></div>
-  <div class="featured-pub-meta">Yang Wang · Working Paper, 2026 · <a href="/files/hard_constrained_inverse_diffusion.pdf">PDF</a></div>
-  <div class="featured-pub-desc">A differentiable Galerkin route to option calibration. Positivity, coercivity, and SPD are guaranteed by architecture, not loss penalties. Proves a no-go proposition for soft-constraint approaches.</div>
-</div>
------------------------------------------------------------------
-
-<div class="featured-pub-card">
-  <div class="featured-pub-title"><a href="/publication/2026-07-01-nonlinear-price-impact/">Learning State-Dependent Nonlinear Price Impact from Exogenous Demand Shocks</a></div>
-  <div class="featured-pub-meta">Yang Wang · Working Paper, 2026 · <a href="/files/npiml.pdf">PDF</a></div>
-  <div class="featured-pub-desc">Nonlinear curvature κ (not linear Kyle-λ) is the most sensitive dimension to dealer constraints and a leading indicator of crises. Replicated on-chain with 40,360 forced-liquidation events.</div>
-</div>
------------------------------------------------------------------
-
-<div class="featured-pub-card">
-  <div class="featured-pub-title"><a href="/publication/2026-08-01-order-books-vs-liquidity-pools/">Order Books vs. Liquidity Pools: Price Discovery Across Decentralized Market Mechanisms</a></div>
-  <div class="featured-pub-meta">Yang Wang · Working Paper, 2026 · <a href="/files/order_books_vs_liquidity_pools.pdf">PDF</a></div>
-  <div class="featured-pub-desc">First fully real-data comparison of centralized CLOB, on-chain CLOB, Uniswap v3, and DEX aggregator for ETH. Centralized order books dominate with 79% of permanent price discovery.</div>
-</div>
------------------------------------------------------------------
-
-<p style="text-align:center;margin-top:1.5em;"><a href="/publications/" style="display:inline-block;background:#3b82f6;color:#fff;padding:0.5em 2em;border-radius:8px;text-decoration:none;font-weight:600;font-size:0.9em;">View all 10 publications &rarr;</a></p>
-
-<div class="section-divider"><h2>Research Blog</h2></div>
-
-<p style="font-size:0.88em;color:#666;margin-bottom:1.5em;">In-depth research notes organized into three thematic series, each with data visualizations and calibrated simulations.</p>
-
-<div class="research-card-grid">
-  <div class="series-card">
-    <img class="series-card-image" src="/images/blog/series1_overview.png" alt="AI Trading Agents">
-    <div class="series-card-body">
-      <h3>AI/LLM Trading Agents & Market Microstructure</h3>
-      <p>Reasoning latency costs, tacit collusion among Q-learning market makers, smart order routing crowding, and informational herding from shared models.</p>
-      <a href="/posts/2026/08/series-ai-trading-agents/" class="series-link">Read 4 papers &rarr;</a>
-    </div>
+<section class="home-section" aria-labelledby="seminar-heading">
+  <div class="section-heading"><div><span class="eyebrow">Conference &amp; presentation</span><h2 id="seminar-heading">Seminar</h2></div></div>
+  <div class="seminar-card">
+    <div class="seminar-meta">ICAIF ’26 <span>·</span> Milan <span>·</span> 14–17 November 2026</div>
+    <h3>7th ACM International Conference on AI in Finance</h3>
+    <p class="award-label">Best Paper Award</p>
+    <h4>Reasoning Is Latency: Endogenous Information Processing and Execution in AI Trading</h4>
+    <p>Oral presentation on November 15 · Submission ID: 1235</p>
+    <p>Presented at the <a href="https://ai-private-markets.github.io/ai-for-private-market-workshop/">Structuring the Unstructured: AI in Private Markets workshop</a>. Thanks to the committee, including <a href="https://www.linkedin.com/in/dhagash-mehta-ph-d-45000111a/">Dr. Dhagash Mehta</a> and <a href="https://www.linkedin.com/in/jingrao-lyu/">Jingrao (Jasmine) Lyu</a>.</p>
+    <details class="workshop-details"><summary>About the workshop</summary><p>The workshop brings together researchers and practitioners to explore AI across private markets, including agentic workflows, foundation models for diligence, fragmented data, trustworthy decision-making, and the challenges of evaluation with delayed outcomes and uncertain valuations.</p></details>
+    <div class="slides-preview"><img src="/images/seminar/reasoning-latency-cover.png" alt="Cover of the Reasoning Is Latency presentation"><div><strong>Presentation slides</strong><p>View the conference presentation as a PDF.</p><a class="text-link" href="/files/ICAIF_2026_Reasoning_Is_Latency_Stage.pdf">Open presentation PDF</a></div></div>
+    <details class="slides-expand"><summary>Preview the slides here</summary><iframe src="/files/ICAIF_2026_Reasoning_Is_Latency_Stage.pdf" title="Reasoning Is Latency presentation slides" loading="lazy"></iframe></details>
   </div>
-  <div class="series-card">
-    <img class="series-card-image" src="/images/blog/series2_overview.png" alt="Dealer Balance Sheet">
-    <div class="series-card-body">
-      <h3>Dealer Balance Sheet, Repo & Treasury Liquidity</h3>
-      <p>VaR risk-limit procyclicality, mandatory central clearing effects, basis trade crowding and margin spirals, and mutual fund fire sale interactions.</p>
-      <a href="/posts/2026/07/series-dealer-balance-sheet/" class="series-link">Read 4 papers &rarr;</a>
-    </div>
-  </div>
-  <div class="series-card">
-    <img class="series-card-image" src="/images/blog/series3_overview.png" alt="ML Liquidity">
-    <div class="series-card-body">
-      <h3>Machine-Learned Liquidity & Causal Inference</h3>
-      <p>Cross-country market opening effects, hidden liquidity deterioration in corporate bonds, tokenized asset market quality, and ML measures in causal designs.</p>
-      <a href="/posts/2026/06/series-ml-liquidity-measures/" class="series-link">Read 4 papers &rarr;</a>
-    </div>
-  </div>
-</div>
+</section>
 
-<p style="text-align:center;margin-top:1em;"><a href="/year-archive/" style="display:inline-block;background:#f0f0f0;color:#555;padding:0.5em 2em;border-radius:8px;text-decoration:none;font-weight:600;font-size:0.85em;">View all 15 blog posts &rarr;</a></p>
-
-<div class="section-divider"><h2>Experience</h2></div>
-
-**Alibaba Cloud Computing** — Deep/Machine Learning Algorithm Engineer, Jul 2021 – Present
-
-ML/DL algorithms for fault diagnosis, anomaly detection, and time-series analysis on cloud-scale systems. MySQL query optimization, system latency reduction, time-series storage frameworks (VictoriaMetrics), and database version migration.
-
-<div class="section-divider"><h2>Education</h2></div>
-
-**Wuhan University** — M.E. Electronic and Communication Engineering, Sep 2019 – Jul 2021 · GPA: 80.1 · National First Scholarship
-
-**Wuhan University of Technology** — B.E. Communication Engineering, Sep 2015 – Jul 2019 · GPA: 88.8 (11/235) · National Scholarship · Siemens-Cup CIMC Final (First Prize)
-<div class="section-divider"><h2>Research Interests</h2></div>
-
-<div class="research-card-grid">
-  <div class="research-card">
-    <h3>Derivatives Pricing</h3>
-    <p>Volatility surface modeling with Black-Scholes, Heston, SABR, Dupire, and SVI models. Arbitrage-free constraints and calibration.</p>
+<section class="home-section" aria-labelledby="works-heading">
+  <div class="section-heading"><div><span class="eyebrow">Selected research</span><h2 id="works-heading">Recent Works</h2></div><a href="/publications/">All publications</a></div>
+  <div class="work-list">
+    <article><span>Working paper · 2026</span><h3><a href="/publication/2026-04-01-smart-order-routing/">AI-Powered Smart Order Routing and the New Best Execution Problem</a></h3><p>Examines execution cost improvements alongside routing concentration and systemic risk.</p><a href="/files/smart_order_routing.pdf">PDF</a></article>
+    <article><span>Working paper · 2026</span><h3><a href="/publication/2026-06-01-hard-constrained-inverse-diffusion/">Hard-Constrained Structure-Preserving Learning for Inverse Diffusion</a></h3><p>A differentiable Galerkin approach to option calibration with structural guarantees.</p><a href="/files/hard_constrained_inverse_diffusion.pdf">PDF</a></article>
+    <article><span>Working paper · 2026</span><h3><a href="/publication/2026-07-01-nonlinear-price-impact/">Learning State-Dependent Nonlinear Price Impact from Exogenous Demand Shocks</a></h3><p>Studies nonlinear price impact as a measure of liquidity and dealer constraints.</p><a href="/files/npiml.pdf">PDF</a></article>
+    <article><span>Working paper · 2026</span><h3><a href="/publication/2026-08-01-order-books-vs-liquidity-pools/">Order Books vs. Liquidity Pools</a></h3><p>Compares price discovery and execution across centralized and decentralized markets.</p><a href="/files/order_books_vs_liquidity_pools.pdf">PDF</a></article>
   </div>
-  <div class="research-card">
-    <h3>Stochastic Volatility Models</h3>
-    <p>Bayesian inference and variational methods for model uncertainty quantification in financial stochastic dynamics.</p>
-  </div>
-  <div class="research-card">
-    <h3>Information Geometry</h3>
-    <p>Optimal transport, Wasserstein geometry, and information-geometric methods for diffusion field reconstruction.</p>
-  </div>
-  <div class="research-card">
-    <h3>AI & Market Microstructure</h3>
-    <p>LLM trading agent behavior, algorithmic collusion detection, smart order routing, and ML-based liquidity measurement.</p>
-  </div>
-</div>
+</section>
 
-<div class="section-divider"><h2>Ongoing Research</h2></div>
+<section class="home-section" aria-labelledby="blog-heading">
+  <div class="section-heading"><div><span class="eyebrow">Ideas &amp; analysis</span><h2 id="blog-heading">Research Blog</h2></div><a href="/year-archive/">All posts</a></div>
+  <div class="topic-grid">
+    <a href="/posts/2026/08/series-ai-trading-agents/"><span>01</span><h3>AI Trading Agents &amp; Market Microstructure</h3><p>Reasoning latency, market makers and routing.</p></a>
+    <a href="/posts/2026/07/series-dealer-balance-sheet/"><span>02</span><h3>Dealer Balance Sheet &amp; Treasury Liquidity</h3><p>Risk limits, clearing and market resilience.</p></a>
+    <a href="/posts/2026/06/series-ml-liquidity-measures/"><span>03</span><h3>Machine-Learned Liquidity &amp; Causal Inference</h3><p>Market quality, liquidity and causal designs.</p></a>
+  </div>
+</section>
 
-<div class="research-card-grid">
-  <div class="research-card">
-    <h3>Arbitrage-Free Volatility Surface Reconstruction</h3>
-    <p>A variational framework combining neural networks and quadratic programming for arbitrage-free volatility surfaces, applied to American option pricing and OTC derivatives.</p>
-  </div>
-  <div class="research-card">
-    <h3>Bayesian Uncertainty Quantification</h3>
-    <p>Posterior estimation and ELBO-based variational inference for SVI, SABR, Heston, and Dupire models, with applications in model validation and model risk management.</p>
-  </div>
-  <div class="research-card">
-    <h3>Information-Geometric Diffusion Fields</h3>
-    <p>Combining Wasserstein distance, spectral encoding, and Transformer architectures for local volatility calibration and diffusion field reconstruction.</p>
-  </div>
-  <div class="research-card">
-    <h3>Event-Driven Factor Construction</h3>
-    <p>Martingale theory, optimal transport, and causal inference for constructing event-driven alpha factors under a rigorous probabilistic framework.</p>
-  </div>
-</div>
+<section class="home-section" aria-labelledby="interests-heading"><div class="section-heading"><div><span class="eyebrow">Areas of inquiry</span><h2 id="interests-heading">Research Interests</h2></div></div><p>Derivatives pricing and volatility surfaces · Stochastic models and uncertainty quantification · Information geometry · AI and market microstructure</p></section>
+<section class="home-section" aria-labelledby="background-heading"><div class="section-heading"><div><span class="eyebrow">Background</span><h2 id="background-heading">Experience &amp; Education</h2></div><a href="/cv/">View CV</a></div><div class="background-list"><p><strong>Alibaba Cloud Computing</strong><br>Senior Engineer · 2021–Present</p><p><strong>Wuhan University</strong><br>M.E. Electronic and Communication Engineering · 2019–2021</p><p><strong>Wuhan University of Technology</strong><br>B.E. Communication Engineering · 2015–2019</p></div></section>
