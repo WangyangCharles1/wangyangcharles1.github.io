@@ -17,17 +17,16 @@ I have been systematically studying stochastic calculus, measure theory, convex 
 -----------------------------------------------------------------
 <div class="section-divider"><h2>Seminar</h2></div>
 
-**ICAIF ’26: 7th ACM International Conference on AI in Finance**, held in Milan on 14–17 November 2026.
+### ICAIF ’26: 7th ACM International Conference on AI in Finance (held in Milan on 14–17 November 2026).
 
-### Join in workshop on Structuring the Unstructured: AI in Private Markets
+Workshop on Structuring the Unstructured: AI in Private Markets, brings together researchers and industry practitioners to explore AI in private markets—covering agentic workflows, foundation models for diligence, and trustworthy AI under challenges like fragmented data and delayed outcomes.[Workshop website](https://ai-private-markets.github.io/ai-for-private-market-workshop/)
 
-This workshop examines emerging AI applications across private equity, private credit, venture capital, real assets, and other alternative investments, bringing together researchers, practitioners, asset managers, allocators, data providers, and technology experts.
+**My Oral Paper Presentation on November 15:** Reasoning Is Latency: Endogenous Information Processing and Execution in AI Trading (Submission ID: 1235) won a **best paper award**! Thanks to the committee, including [Dr. Dhagash Mehta](https://www.linkedin.com/in/dhagash-mehta-ph-d-45000111a/) and [Jingrao (Jasmine) Lyu](https://www.linkedin.com/in/jingrao-lyu/).
 
-Its themes include agentic and multi-agent investment workflows, foundation models for diligence and document intelligence, fragmented and delayed private-market data, trustworthy AI for high-stakes illiquid decisions, and the impact of AI on portfolio companies and investment risk. Particular attention is given to evaluation with proprietary data, delayed outcomes, uncertain valuations, and limited comparables.
-
-[Workshop website](https://ai-private-markets.github.io/ai-for-private-market-workshop/)
-
-**My Oral Paper Presentation on November 15:** Reasoning Is Latency: Endogenous Information Processing and Execution in AI Trading (Submission ID: 1235) won a best paper award! Thanks to the committee, including [Dr. Dhagash Mehta](https://www.linkedin.com/in/dhagash-mehta-ph-d-45000111a/) and [Jingrao (Jasmine) Lyu](https://www.linkedin.com/in/jingrao-lyu/).
+<div class="seminar-pdf-preview" style="margin: 1.5em 0;">
+  <iframe src="/files/ICAIF_2026_Reasoning_Is_Latency_Stage.pdf" title="Reasoning Is Latency presentation slides" style="width: 100%; height: 600px; border: 1px solid #e0e0e0; border-radius: 8px;" loading="lazy"></iframe>
+  <p><a href="/files/ICAIF_2026_Reasoning_Is_Latency_Stage.pdf">Open or download the presentation slides (PDF)</a></p>
+</div>
 
 -----------------------------------------------------------------
 <div class="section-divider"><h2>Recent Works</h2></div>
