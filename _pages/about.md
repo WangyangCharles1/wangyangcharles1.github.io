@@ -19,7 +19,7 @@ redirect_from:
   <div class="section-heading"><div><span class="eyebrow">Conference &amp; presentation</span><h2 id="seminar-heading">Seminar</h2></div></div>
   <div class="seminar-card">
     <div class="seminar-meta">ICAIF ’26 <span>·</span> Milan <span>·</span> 14–17 November 2026</div>
-    <h3>7th ACM International Conference on AI in Finance</h3>
+    <h3>7th ACM International Conference on AI in Finance workshop</h3>
     <p class="award-label">Best Paper Award</p>
     <h4>Reasoning Is Latency: Endogenous Information Processing and Execution in AI Trading</h4>
     <p>Oral presentation on November 15 · Submission ID: 1235</p>
